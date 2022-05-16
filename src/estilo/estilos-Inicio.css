@@ -107,7 +107,7 @@
     margin: 1em 0;
   
   }
-  .control input[type="submit"]{
+  button{
     background:crimson;
     color:#fff;
     text-transform: uppercase;    
@@ -116,7 +116,7 @@
     transition:opacity .3s ease;
   
   }
-  .control input[type="button"]{
+  button{
     background:crimson;
     color:#fff;
     text-transform: uppercase;    
@@ -125,7 +125,7 @@
     transition:opacity .3s ease;
   
   }
-  .control input[type="button"]:hover{
+  button:hover{
     opacity:1;
   }
   .link{

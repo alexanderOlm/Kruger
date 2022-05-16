@@ -41,7 +41,7 @@ function Inicio(){
       
               <button>
               <Link to="/Administrador">
-                Ingr</Link>
+                Reguistar</Link>
               </button>
                 
               
