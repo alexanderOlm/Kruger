@@ -5,7 +5,7 @@ import Inicio from './Componentes/Inicio';
 
 
 
-function App() {
+function App2() {
   return (
     <div className="App">
       <Inicio/>
@@ -19,4 +19,4 @@ function App() {
   );
 }
 
-export default App;
+export default App2;
